@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CqrMKlAqx4mwxg59bIG2CdFyCV5l3izBhhKBhdE1b3MziSo9RroxYOyUlzgKhFmEaOH1yFaGQvNP+NKiAq8sCQ==",
+  "success": true,
+  "projectFilePath": "D:\\C SHARP\\GestionEtablissement_C_Sharp\\GestionEtablissement_C_Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALGORITHME TAKAM\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ALGORITHME TAKAM\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ALGORITHME TAKAM\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\ALGORITHME TAKAM\\.nuget\\packages\\system.text.json\\6.0.6\\system.text.json.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

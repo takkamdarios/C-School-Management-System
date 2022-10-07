@@ -1,0 +1,48 @@
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.csproj.AssemblyReference.cache
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.AssemblyInfoInputs.cache
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.AssemblyInfo.cs
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.csproj.CoreCompileInputs.cache
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.exe
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.deps.json
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.runtimeconfig.json
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.dll
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.pdb
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.dll
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\obj\Debug\net6.0\refint\GestionEtablissement_C_Sharp.dll
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.pdb
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.genruntimeconfig.cache
+D:\Devs-Learn\C_Sharp_Game\GestionEtablissement_C_Sharp\obj\Debug\net6.0\ref\GestionEtablissement_C_Sharp.dll
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.exe
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.deps.json
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.runtimeconfig.json
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.dll
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.pdb
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.csproj.AssemblyReference.cache
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.AssemblyInfo.cs
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.dll
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\obj\Debug\net6.0\refint\GestionEtablissement_C_Sharp.dll
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.pdb
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.genruntimeconfig.cache
+C:\Users\ALGORITHME TAKAM\Desktop\GestionEtablissement_C_Sharp\obj\Debug\net6.0\ref\GestionEtablissement_C_Sharp.dll
+D:\C SHARP\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.exe
+D:\C SHARP\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.deps.json
+D:\C SHARP\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.runtimeconfig.json
+D:\C SHARP\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.dll
+D:\C SHARP\GestionEtablissement_C_Sharp\bin\Debug\net6.0\GestionEtablissement_C_Sharp.pdb
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.csproj.AssemblyReference.cache
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.AssemblyInfoInputs.cache
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.AssemblyInfo.cs
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.csproj.CoreCompileInputs.cache
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.dll
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\refint\GestionEtablissement_C_Sharp.dll
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.pdb
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.genruntimeconfig.cache
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\ref\GestionEtablissement_C_Sharp.dll
+D:\C SHARP\GestionEtablissement_C_Sharp\bin\Debug\net6.0\System.Text.Json.dll
+D:\C SHARP\GestionEtablissement_C_Sharp\obj\Debug\net6.0\GestionEtablissement_C_Sharp.csproj.CopyComplete
+D:\C SHARP\GestionEtablissement_C_Sharp\bin\Debug\net6.0\Newtonsoft.Json.dll
